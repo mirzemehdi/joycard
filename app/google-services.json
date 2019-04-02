@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "7859254588",
+    "firebase_url": "https://joycard-88d5a.firebaseio.com",
+    "project_id": "joycard-88d5a",
+    "storage_bucket": "joycard-88d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7859254588:android:3ba0f132a05d33e0",
+        "android_client_info": {
+          "package_name": "com.mmk.joycard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7859254588-nact5o7uol1q3ctoe0b8ufej172koi2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmk.joycard",
+            "certificate_hash": "e63b0ca8c31fb140138e6cbce4515903f8d05c2e"
+          }
+        },
+        {
+          "client_id": "7859254588-8m1qnn1js483tgln0d4ctspf0on3970j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwKHIpb1b5MYsqkBt1DdUayXtSikqoxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7859254588-8m1qnn1js483tgln0d4ctspf0on3970j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
